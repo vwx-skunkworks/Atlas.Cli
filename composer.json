@@ -1,7 +1,7 @@
 {
-    "name": "atlas/cli",
+    "name": "vwx/atlas-cli",
     "type": "library",
-    "description": "Command-line interface for Atlas.",
+    "description": "Command-line interface for Atlas, VWX fork to update dependencies",
     "keywords": [ "sql", "data", "mapper", "mapping", "orm" ],
     "homepage": "http://github.com/atlasphp/Atlas.Cli",
     "license": "MIT",
